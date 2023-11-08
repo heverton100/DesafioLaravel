@@ -1,10 +1,12 @@
 ## Desafio Laravel
 
-Laravel-Admin
-Helpers
-Scaffold
-Linguagem PHP
-DB MySQL
+-    Laravel-Admin
+-    Helpers
+-    Scaffold
+-    Linguagem PHP
+-    DB MySQL
+
+##
 
 - Criar menu lateral para cadastro de pessoas
 - Criar um form de cadastro/edição de pessoas
